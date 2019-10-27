@@ -1,0 +1,14 @@
+server:
+  port: 8090
+  servlet:
+    context-path: /zip
+  tomcat:
+    connection-timeout: 5000
+    max-connections: 100
+spring:
+  application:
+    name: zipExample
+  servlet:
+    multipart:
+      max-file-size: 1976135
+      max-request-size: 1976135
