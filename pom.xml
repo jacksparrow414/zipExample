@@ -18,7 +18,7 @@
         <java.version>1.8</java.version>
         <commons.lang.version>2.6</commons.lang.version>
         <commons.fileupload.version>1.2.2</commons.fileupload.version>
-        <commons.io.version>2.5</commons.io.version>
+        <commons.io.version>2.7</commons.io.version>
         <httpcore.version>4.4.11</httpcore.version>
         <httpclient.version>4.5.10</httpclient.version>
         <httpmime.version>4.5.10</httpmime.version>
